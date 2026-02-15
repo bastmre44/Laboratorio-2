@@ -10,14 +10,14 @@ I implemented a dark aesthetic inspired by the "Midnights" era:
 ---
 ###Before 
 ![Before](images/before.png)
-![Before](images/before1.png)
+![Before](images/before2.png)
 ---
 
 
 
 ### After 
 ![After](images/after.png)
-![After](imagages/after1.png)
+![After](images/after1.png)
 
 ## tools used 
 
