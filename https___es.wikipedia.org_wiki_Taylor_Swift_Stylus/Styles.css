@@ -1,0 +1,54 @@
+/* Laboratorio #2*/
+/* Primera Parte */
+/* Fondo general */
+body {
+    background-color: #4733d1 !important;
+    color: #e2e8f0 !important;
+    font-family: "Georgia", serif !important;
+}
+
+/* Contenedor principal */
+.mw-body {
+    background-color: #1e293b !important;
+    border-radius: 15px;
+    padding: 30px !important;
+    box-shadow: 0 0 30px rgba(147, 197, 253, 0.2);
+}
+
+/* Títulos */
+h1, h2, h3 {
+    color: #c084fc !important;
+    border-bottom: 1px solid #334155 !important;
+}
+
+/* Enlaces */
+a {
+    color: #93c5fd !important;
+}
+
+a:hover {
+    color: #f472b6 !important;
+}
+
+/* Tabla lateral (infobox) */
+.infobox {
+    background-color: #111827 !important;
+    border: 1px solid #334155 !important;
+    color: #e2e8f0 !important;
+}
+
+/* Tablas generales */
+table {
+    background-color: #1f2937 !important;
+    border-radius: 10px;
+}
+
+/* Barra lateral izquierda */
+#mw-panel {
+    background-color: #0f172a !important;
+}
+
+/* Barra superior */
+#mw-head {
+    background-color: #111827 !important;
+}
