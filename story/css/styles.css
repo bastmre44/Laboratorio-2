@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #0f0f14;
+    background-color: #212136;
     font-family: 'Georgia', serif;
     color: #f1f1f1;
     display: flex;
@@ -58,3 +58,11 @@ body {
         transform: translateY(0);
     }
 }
+.bad-ending .dialogue-box {
+    border-color: #ff4444;
+}
+
+.bad-ending .dialogue-text {
+    color: #dddddd;
+}
+
