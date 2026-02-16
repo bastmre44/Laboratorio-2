@@ -65,4 +65,12 @@ body {
 .bad-ending .dialogue-text {
     color: #dddddd;
 }
+.story-image {
+    width: 40%;          /* ocupa 40% del contenedor */
+    aspect-ratio: 1 / 1; /* hace que sea cuadrado */
+    object-fit: cover;   /* recorta sin deformar */
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 12px;
+}
 
