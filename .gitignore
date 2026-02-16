@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# OS generated files
+Thumbs.db
+
+# Node (por si acaso)
+node_modules/
+
+# VS Code
+.vscode/
+
+# Cache
+.cache/
