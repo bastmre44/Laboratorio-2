@@ -43,7 +43,7 @@ Demo Video
 
 You can watch the demonstration video here:
 
-images/lab2.mp4
+![video](images/lab2.mp4)
 
 ------------------------------------------------------------------------
 
