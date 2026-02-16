@@ -96,7 +96,7 @@ Technologies Used
 
 \-   HTML5
 
-\-   CSS3
+\-   CSS
 
 \-   Stylus
 
@@ -120,7 +120,7 @@ How to Run with NGINX
 
 
 
-http://localhost/lab2/story/inicio/index.html
+http://localhost/lab2/story/index/index.html
 
 
 
